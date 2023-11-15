@@ -3,8 +3,8 @@
 M.Sc. Thesis, Department of Computer Engineering, Sharif University of Technology
 
 
-By:
-Iman Rahmati
-Supervisor:
-Dr. Ali Movaghar
-September 2022
+By: Iman Rahmati
+
+Supervisor: Dr. Ali Movaghar
+
+Date: Sep 2022
