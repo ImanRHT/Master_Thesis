@@ -1,3 +1,1 @@
-# Thesis Template
-
-A LaTeX template for typesetting theses in Persian.
+## A Novel Resource Allocation Algorithm in Edge Computing with Deep Reinforcement Learning
