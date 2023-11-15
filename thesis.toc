@@ -1,0 +1,78 @@
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
+\contentsline {section}{\numberline {1-1}پیش‌زمینه}{1}{section.1.1}%
+\contentsline {section}{\numberline {1-2}اهداف پژوهش}{4}{section.1.2}%
+\contentsline {section}{\numberline {1-3}چالش‌ها}{5}{section.1.3}%
+\contentsline {section}{\numberline {1-4}دست‌آوردها}{6}{section.1.4}%
+\contentsline {section}{\numberline {1-5}ساختار پایان‌نامه}{6}{section.1.5}%
+\contentsline {chapter}{\numberline {2}مفاهیم اولیه}{7}{chapter.2}%
+\contentsline {section}{\numberline {2-1}معماری شبکه}{7}{section.2.1}%
+\contentsline {subsection}{\numberline {2-1-1}محاسبات‌ ابری}{8}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2-1-2}محاسبات لبه متحرک}{9}{subsection.2.1.2}%
+\contentsline {paragraph}{پشتیبانی از تحرک کاربران}{10}{section*.4}%
+\contentsline {paragraph}{توزیع جغرافیایی متراکم}{10}{section*.5}%
+\contentsline {paragraph}{آگاهی از موقعیت مکانی}{10}{section*.6}%
+\contentsline {paragraph}{نزدیکی به کاربران}{10}{section*.7}%
+\contentsline {paragraph}{زمان تأخیر کم}{11}{section*.8}%
+\contentsline {paragraph}{ناهمگونی }{11}{section*.9}%
+\contentsline {subsection}{\numberline {2-1-3}ابعاد محاسبات ابری و محاسبات لبه}{11}{subsection.2.1.3}%
+\contentsline {paragraph}{محل محاسبات}{11}{section*.10}%
+\contentsline {paragraph}{توان محاسبات}{12}{section*.11}%
+\contentsline {paragraph}{هدف محاسبات}{12}{section*.12}%
+\contentsline {section}{\numberline {2-2}بارسپاری محاسباتی}{13}{section.2.2}%
+\contentsline {subsection}{\numberline {2-2-1}تصمیم‌گیری در مورد بارسپاری محاسبات به گره‌ لبه}{14}{subsection.2.2.1}%
+\contentsline {paragraph}{کمینه‌سازی تأخیر اجرا}{14}{section*.13}%
+\contentsline {paragraph}{کمینه‌سازی مصرف انرژی}{15}{section*.14}%
+\contentsline {section}{\numberline {2-3}مدیریت منابع}{15}{section.2.3}%
+\contentsline {subsection}{\numberline {2-3-1}تخمین منابع}{16}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2-3-2}کشف منابع}{16}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2-3-3}تخصیص منابع}{17}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2-3-4}اشتراک‌گذاری منابع}{18}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2-3-5}بهینه‌سازی منابع}{18}{subsection.2.3.5}%
+\contentsline {section}{\numberline {2-4}فرایند تصمیم‌گیری مارکوف}{18}{section.2.4}%
+\contentsline {section}{\numberline {2-5}تعریف فرایند تصمیم‌گیری مارکوف}{20}{section.2.5}%
+\contentsline {section}{\numberline {2-6}یادگیری تقویتی}{21}{section.2.6}%
+\contentsline {section}{\numberline {2-7}اجزا مسئله یادگیری تقویتی}{21}{section.2.7}%
+\contentsline {subsection}{\numberline {2-7-1}سیگنال امتیاز}{22}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2-7-2}عامل و محیط}{22}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2-7-3}حالات و تاریخچه}{24}{subsection.2.7.3}%
+\contentsline {subsection}{\numberline {2-7-4}توابع ارزش و معادله بلمن}{25}{subsection.2.7.4}%
+\contentsline {section}{\numberline {2-8}بهره‌برداری و اکتشاف}{27}{section.2.8}%
+\contentsline {section}{\numberline {2-9}روش‌های پاسخ به مسائل یادگیری تقویتی}{28}{section.2.9}%
+\contentsline {subsection}{\numberline {2-9-1}روش تکرارشونده ارزش}{29}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2-9-2}روش تکرارشونده سیاست}{29}{subsection.2.9.2}%
+\contentsline {section}{\numberline {2-10}تقریب توابع}{30}{section.2.10}%
+\contentsline {section}{\numberline {2-11}شبکه‌های عصبی عمیق}{31}{section.2.11}%
+\contentsline {section}{\numberline {2-12}مدل محیط در روش‌های مبتنی بر یادگیری تقویتی}{33}{section.2.12}%
+\contentsline {section}{\numberline {2-13}جمع‌بندی و نتیجه‌گیری}{34}{section.2.13}%
+\contentsline {chapter}{\numberline {3}پژوهش‌های مرتبط پیشین}{36}{chapter.3}%
+\contentsline {section}{\numberline {3-1}مقدمه}{36}{section.3.1}%
+\contentsline {section}{\numberline {3-2}پژوهش‌های پیشین}{37}{section.3.2}%
+\contentsline {chapter}{\numberline {4}تعریف مسئله}{44}{chapter.4}%
+\contentsline {section}{\numberline {4-1}مدل سیستم}{44}{section.4.1}%
+\contentsline {section}{\numberline {4-2}مدل وظیفه}{46}{section.4.2}%
+\contentsline {section}{\numberline {4-3}تصمیم‌گیری بارسپاری وظیفه}{47}{section.4.3}%
+\contentsline {section}{\numberline {4-4}مدل ارتباطی}{47}{section.4.4}%
+\contentsline {section}{\numberline {4-5}مدل محاسباتی}{49}{section.4.5}%
+\contentsline {subsection}{\numberline {4-5-1}محاسبات محلی}{49}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4-5-2}محاسبات در لبه}{51}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4-5-3}پردازش و انقضا وظیفه}{53}{subsection.4.5.3}%
+\contentsline {chapter}{\numberline {5}مسئله بارسپاری وظیفه مبتنی بر یادگیری تقویتی عمیق}{55}{chapter.5}%
+\contentsline {section}{\numberline {5-1}بیان مسئله با یادگیری تقویتی عمیق}{55}{section.5.1}%
+\contentsline {subsection}{\numberline {5-1-1}حالت}{56}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5-1-2}عمل}{57}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5-1-3}هزینه}{57}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5-2}سیاست بهینه}{59}{section.5.2}%
+\contentsline {section}{\numberline {5-3}الگوریتم بارسپاری وظیفه مبتنی بر یادگیری تقویتی عمیق}{59}{section.5.3}%
+\contentsline {section}{\numberline {5-4}شبکه عصبی}{60}{section.5.4}%
+\contentsline {section}{\numberline {5-5}لایه ورودی}{61}{section.5.5}%
+\contentsline {section}{\numberline {5-6}لایه حافظه کوتاه‌مدت ماندگار}{61}{section.5.6}%
+\contentsline {section}{\numberline {5-7}لایه‌های کاملا متصل}{62}{section.5.7}%
+\contentsline {section}{\numberline {5-8}لایه ارزش، امتیاز-عمل و لایه خروجی}{62}{section.5.8}%
+\contentsline {section}{\numberline {5-9}الگوریتم مبتنی بر یادگیری تقویتی عمیق}{64}{section.5.9}%
+\contentsline {subsection}{\numberline {5-9-1}الگوریتم اجرایی در دستگاه تلفن همراه}{65}{subsection.5.9.1}%
+\contentsline {subsection}{\numberline {5-9-2}الگوریتم اجرایی در گره لبه}{67}{subsection.5.9.2}%
+\contentsline {chapter}{\numberline {6}نتایج}{70}{chapter.6}%
+\contentsline {section}{\numberline {6-1}شبیه‌سازی}{70}{section.6.1}%
+\contentsline {section}{\numberline {6-2}ارزیابی عملکرد}{72}{section.6.2}%
+\contentsline {section}{\numberline {6-3}مقایسه نتایج}{74}{section.6.3}%
+\contentsline {chapter}{\numberline {7}نتیجه‌گیری}{81}{chapter.7}%

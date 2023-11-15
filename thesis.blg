@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: chapters/introduction.aux
+A level-1 auxiliary file: chapters/definitions.aux
+A level-1 auxiliary file: chapters/literature.aux
+A level-1 auxiliary file: chapters/results.aux
+The style file: ./styles/packages/unsrtabbrv.bst
+Database file #1: bibs/full.bib
+Database file #2: bibs/refs.bib
+Repeated entry---line 203 of file bibs/refs.bib
+ : @article{gai2018optimal
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 541 of file bibs/refs.bib
+ : @article{chen2018task
+ :                      ,
+I'm skipping whatever remains of this entry
+You've used 44 entries,
+            1791 wiz_defined-function locations,
+            1037 strings with 18184 characters,
+and the built_in function-call counts, 12374 in all, are:
+= -- 1166
+> -- 556
+< -- 11
++ -- 201
+- -- 157
+* -- 935
+:= -- 1899
+add.period$ -- 142
+call.type$ -- 44
+change.case$ -- 42
+chr.to.int$ -- 0
+cite$ -- 44
+duplicate$ -- 500
+empty$ -- 1165
+format.name$ -- 157
+if$ -- 2757
+int.to.chr$ -- 0
+int.to.str$ -- 44
+missing$ -- 46
+newline$ -- 223
+num.names$ -- 44
+pop$ -- 107
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 232
+stack$ -- 0
+substring$ -- 1087
+swap$ -- 129
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 134
+width$ -- 46
+write$ -- 494
+(There were 2 error messages)

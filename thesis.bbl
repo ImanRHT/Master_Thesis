@@ -1,0 +1,279 @@
+\begin{thebibliography}{10}
+
+\bibitem{mao2016dynamic}
+Y.~Mao, J.~Zhang, and K.~B. Letaief.
+\newblock Dynamic computation offloading for mobile-edge computing with energy
+  harvesting devices.
+\newblock {\em IEEE Journal on Selected Areas in Communications},
+  34(12):3590--3605, 2016.
+
+\bibitem{bertsekas2012dynamic}
+D.~Bertsekas.
+\newblock {\em Dynamic programming and optimal control: Volume I}, volume~1.
+\newblock Athena scientific, 2012.
+
+\bibitem{gonzalez2015cloud}
+J.~A. Gonz{\'a}lez-Mart{\'\i}nez, M.~L. Bote-Lorenzo, E.~G{\'o}mez-S{\'a}nchez,
+  and R.~Cano-Parra.
+\newblock Cloud computing and education: A state-of-the-art survey.
+\newblock {\em Computers \& Education}, 80:132--151, 2015.
+
+\bibitem{shi2016edge}
+W.~Shi, J.~Cao, Q.~Zhang, Y.~Li, and L.~Xu.
+\newblock Edge computing: Vision and challenges.
+\newblock {\em IEEE internet of things journal}, 3(5):637--646, 2016.
+
+\bibitem{dolui2017comparison}
+K.~Dolui and S.~K. Datta.
+\newblock Comparison of edge computing implementations: Fog computing, cloudlet
+  and mobile edge computing.
+\newblock In {\em 2017 Global Internet of Things Summit (GIoTS)}, pages 1--6.
+  IEEE, 2017.
+
+\bibitem{gai2018optimal}
+K.~Gai and M.~Qiu.
+\newblock Optimal resource allocation using reinforcement learning for iot
+  content-centric services.
+\newblock {\em Applied Soft Computing}, 70:12--21, 2018.
+
+\bibitem{li2019energy}
+Q.~Li, J.~Zhao, Y.~Gong, and Q.~Zhang.
+\newblock Energy-efficient computation offloading and resource allocation in
+  fog computing for internet of everything.
+\newblock {\em China Communications}, 16(3):32--41, 2019.
+
+\bibitem{mach2017mobile}
+P.~Mach and Z.~Becvar.
+\newblock Mobile edge computing: A survey on architecture and computation
+  offloading.
+\newblock {\em IEEE Communications Surveys \& Tutorials}, 19(3):1628--1656,
+  2017.
+
+\bibitem{tocze2018taxonomy}
+K.~Tocz{\'e} and S.~Nadjm-Tehrani.
+\newblock A taxonomy for management and optimization of multiple resources in
+  edge computing.
+\newblock {\em Wireless Communications and Mobile Computing}, 2018, 2018.
+
+\bibitem{aazam2016pre}
+M.~Aazam, M.~St-Hilaire, C.-H. Lung, and I.~Lambadaris.
+\newblock Pre-fog: Iot trace based probabilistic resource estimation at fog.
+\newblock In {\em 2016 13th IEEE Annual Consumer Communications \& Networking
+  Conference (CCNC)}, pages 12--17. IEEE, 2016.
+
+\bibitem{athwani2015resource}
+P.~Athwani and D.~P. Vidyarthi.
+\newblock Resource discovery in mobile cloud computing: A clustering based
+  approach.
+\newblock In {\em 2015 IEEE UP Section Conference on Electrical Computer and
+  Electronics (UPCON)}, pages 1--6. IEEE, 2015.
+
+\bibitem{chen2018task}
+M.~Chen and Y.~Hao.
+\newblock Task offloading for mobile edge computing in software defined
+  ultra-dense network.
+\newblock {\em IEEE Journal on Selected Areas in Communications},
+  36(3):587--597, 2018.
+
+\bibitem{puterman1990markov}
+M.~L. Puterman.
+\newblock Markov decision processes.
+\newblock {\em Handbooks in operations research and management science},
+  2:331--434, 1990.
+
+\bibitem{sutton2018reinforcement}
+R.~S. Sutton and A.~G. Barto.
+\newblock {\em Reinforcement learning: An introduction}.
+\newblock MIT press, 2018.
+
+\bibitem{lecun2015deep}
+Y.~LeCun, Y.~Bengio, and G.~Hinton.
+\newblock Deep learning.
+\newblock {\em nature}, 521(7553):436--444, 2015.
+
+\bibitem{schmidhuber2015deep}
+J.~Schmidhuber.
+\newblock Deep learning in neural networks: An overview.
+\newblock {\em Neural networks}, 61:85--117, 2015.
+
+\bibitem{tran2018joint}
+T.~X. Tran and D.~Pompili.
+\newblock Joint task offloading and resource allocation for multi-server
+  mobile-edge computing networks.
+\newblock {\em IEEE Transactions on Vehicular Technology}, 68(1):856--868,
+  2018.
+
+\bibitem{guo2016energy}
+S.~Guo, B.~Xiao, Y.~Yang, and Y.~Yang.
+\newblock Energy-efficient dynamic offloading and resource scheduling in mobile
+  cloud computing.
+\newblock In {\em IEEE INFOCOM 2016-The 35th Annual IEEE International
+  Conference on Computer Communications}, pages 1--9. IEEE, 2016.
+
+\bibitem{sundar2018offloading}
+S.~Sundar and B.~Liang.
+\newblock Offloading dependent tasks with communication delay and deadline
+  constraint.
+\newblock In {\em IEEE INFOCOM 2018-IEEE Conference on Computer
+  Communications}, pages 37--45. IEEE, 2018.
+
+\bibitem{sun2017latency}
+X.~Sun and N.~Ansari.
+\newblock Latency aware workload offloading in the cloudlet network.
+\newblock {\em IEEE Communications Letters}, 21(7):1481--1484, 2017.
+
+\bibitem{wang2017computation}
+C.~Wang, C.~Liang, F.~R. Yu, Q.~Chen, and L.~Tang.
+\newblock Computation offloading and resource allocation in wireless cellular
+  networks with mobile edge computing.
+\newblock {\em IEEE Transactions on Wireless Communications}, 16(8):4924--4938,
+  2017.
+
+\bibitem{bi2018computation}
+S.~Bi and Y.~J. Zhang.
+\newblock Computation rate maximization for wireless powered mobile-edge
+  computing with binary computation offloading.
+\newblock {\em IEEE Transactions on Wireless Communications}, 17(6):4177--4190,
+  2018.
+
+\bibitem{eshraghi2019joint}
+N.~Eshraghi and B.~Liang.
+\newblock Joint offloading decision and resource allocation with uncertain task
+  computing requirement.
+\newblock In {\em IEEE INFOCOM 2019-IEEE Conference on Computer
+  Communications}, pages 1414--1422. IEEE, 2019.
+
+\bibitem{lyu2018energy}
+X.~Lyu, H.~Tian, W.~Ni, Y.~Zhang, P.~Zhang, and R.~P. Liu.
+\newblock Energy-efficient admission of delay-sensitive tasks for mobile edge
+  computing.
+\newblock {\em IEEE Transactions on Communications}, 66(6):2603--2616, 2018.
+
+\bibitem{poularakis2019joint}
+K.~Poularakis, J.~Llorca, A.~M. Tulino, I.~Taylor, and L.~Tassiulas.
+\newblock Joint service placement and request routing in multi-cell mobile edge
+  computing networks.
+\newblock In {\em IEEE INFOCOM 2019-IEEE Conference on Computer
+  Communications}, pages 10--18. IEEE, 2019.
+
+\bibitem{lyu2018distributed}
+X.~Lyu, W.~Ni, H.~Tian, R.~P. Liu, X.~Wang, G.~B. Giannakis, and A.~Paulraj.
+\newblock Distributed online optimization of fog computing for selfish devices
+  with out-of-date information.
+\newblock {\em IEEE Transactions on Wireless Communications},
+  17(11):7704--7717, 2018.
+
+\bibitem{li2019incentive}
+L.~Li, T.~Q. Quek, J.~Ren, H.~H. Yang, Z.~Chen, and Y.~Zhang.
+\newblock An incentive-aware job offloading control framework for multi-access
+  edge computing.
+\newblock {\em IEEE Transactions on Mobile Computing}, 20(1):63--75, 2019.
+
+\bibitem{shah2018hierarchical}
+H.~Shah-Mansouri and V.~W. Wong.
+\newblock Hierarchical fog-cloud computing for iot systems: A computation
+  offloading game.
+\newblock {\em IEEE Internet of Things Journal}, 5(4):3246--3257, 2018.
+
+\bibitem{yang2018distributed}
+L.~Yang, H.~Zhang, X.~Li, H.~Ji, and V.~C. Leung.
+\newblock A distributed computation offloading strategy in small-cell networks
+  integrated with mobile edge computing.
+\newblock {\em IEEE/ACM Transactions on Networking}, 26(6):2762--2773, 2018.
+
+\bibitem{neto2018uloof}
+J.~L.~D. Neto, S.-Y. Yu, D.~F. Macedo, J.~M.~S. Nogueira, R.~Langar, and
+  S.~Secci.
+\newblock Uloof: A user level online offloading framework for mobile edge
+  computing.
+\newblock {\em IEEE Transactions on Mobile Computing}, 17(11):2660--2674, 2018.
+
+\bibitem{mnih2015human}
+V.~Mnih, K.~Kavukcuoglu, D.~Silver, A.~A. Rusu, J.~Veness, M.~G. Bellemare,
+  A.~Graves, M.~Riedmiller, A.~K. Fidjeland, G.~Ostrovski, et~al.
+\newblock Human-level control through deep reinforcement learning.
+\newblock {\em nature}, 518(7540):529--533, 2015.
+
+\bibitem{huang2019deep}
+L.~Huang, S.~Bi, and Y.-J.~A. Zhang.
+\newblock Deep reinforcement learning for online computation offloading in
+  wireless powered mobile-edge computing networks.
+\newblock {\em IEEE Transactions on Mobile Computing}, 19(11):2581--2593, 2019.
+
+\bibitem{liu2019deep}
+Y.~Liu, H.~Yu, S.~Xie, and Y.~Zhang.
+\newblock Deep reinforcement learning for offloading and resource allocation in
+  vehicle edge computing and networks.
+\newblock {\em IEEE Transactions on Vehicular Technology}, 68(11):11158--11168,
+  2019.
+
+\bibitem{zhao2019deep}
+N.~Zhao, Y.-C. Liang, D.~Niyato, Y.~Pei, M.~Wu, and Y.~Jiang.
+\newblock Deep reinforcement learning for user association and resource
+  allocation in heterogeneous cellular networks.
+\newblock {\em IEEE Transactions on Wireless Communications},
+  18(11):5141--5152, 2019.
+
+\bibitem{xiong2020resource}
+X.~Xiong, K.~Zheng, L.~Lei, and L.~Hou.
+\newblock Resource allocation based on deep reinforcement learning in iot edge
+  computing.
+\newblock {\em IEEE Journal on Selected Areas in Communications},
+  38(6):1133--1146, 2020.
+
+\bibitem{li2018deep}
+J.~Li, H.~Gao, T.~Lv, and Y.~Lu.
+\newblock Deep reinforcement learning based computation offloading and resource
+  allocation for mec.
+\newblock In {\em 2018 IEEE Wireless Communications and Networking Conference
+  (WCNC)}, pages 1--6. IEEE, 2018.
+
+\bibitem{shan2020drl+}
+N.~Shan, X.~Cui, and Z.~Gao.
+\newblock “drl+ fl”: An intelligent resource allocation model based on deep
+  reinforcement learning for mobile edge computing.
+\newblock {\em Computer Communications}, 160:14--24, 2020.
+
+\bibitem{liu2020resource}
+X.~Liu, J.~Yu, J.~Wang, and Y.~Gao.
+\newblock Resource allocation with edge computing in iot networks via machine
+  learning.
+\newblock {\em IEEE Internet of Things Journal}, 7(4):3415--3426, 2020.
+
+\bibitem{tang2020deep}
+M.~Tang and V.~W. Wong.
+\newblock Deep reinforcement learning for task offloading in mobile edge
+  computing systems.
+\newblock {\em IEEE Transactions on Mobile Computing}, 2020.
+
+\bibitem{zhou2021deep}
+H.~Zhou, K.~Jiang, X.~Liu, X.~Li, and V.~C. Leung.
+\newblock Deep reinforcement learning for energy-efficient computation
+  offloading in mobile-edge computing.
+\newblock {\em IEEE Internet of Things Journal}, 9(2):1517--1530, 2021.
+
+\bibitem{liu2016delay}
+J.~Liu, Y.~Mao, J.~Zhang, and K.~B. Letaief.
+\newblock Delay-optimal computation task scheduling for mobile-edge computing
+  systems.
+\newblock In {\em 2016 IEEE international symposium on information theory
+  (ISIT)}, pages 1451--1455. IEEE, 2016.
+
+\bibitem{parekh1993generalized}
+A.~K. Parekh and R.~G. Gallager.
+\newblock A generalized processor sharing approach to flow control in
+  integrated services networks: the single-node case.
+\newblock {\em IEEE/ACM transactions on networking}, 1(3):344--357, 1993.
+
+\bibitem{wang2016dueling}
+Z.~Wang, T.~Schaul, M.~Hessel, H.~Hasselt, M.~Lanctot, and N.~Freitas.
+\newblock Dueling network architectures for deep reinforcement learning.
+\newblock In {\em International conference on machine learning}, pages
+  1995--2003. PMLR, 2016.
+
+\bibitem{gers2000learning}
+F.~A. Gers, J.~Schmidhuber, and F.~Cummins.
+\newblock Learning to forget: Continual prediction with lstm.
+\newblock {\em Neural computation}, 12(10):2451--2471, 2000.
+
+\end{thebibliography}

@@ -1,0 +1,19 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2-1}{\ignorespaces معماری شبکه با بهره‌گیری از محاسبات لبه}}{8}{figure.2.1}%
+\contentsline {figure}{\numberline {2-2}{\ignorespaces نحوه تعامل عامل هوشمند یادگیری تقویتی در محیط}}{23}{figure.2.2}%
+\contentsline {figure}{\numberline {2-3}{\ignorespaces نمونه‌ای از یک شبکه عصبی}}{32}{figure.2.3}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4-1}{\ignorespaces تصویر صف‌های تشکیل‌شده در دستگاه تلفن همراه $m \in \mathcal {M}$ و در گره لبه $n \in \mathcal {N}$.}}{46}{figure.4.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5-1}{\ignorespaces شبکه عصبی دستگاه تلفن همراه $m \in \mathcal {M}$، همراه با بردار پارامترهای $\theta _m$, که نگاشت بین حالت $s_m(t) \in \mathcal {S}$ و مقادیر $Q$ را برای هر عمل $a \in \mathcal {A}$ انجام می‌دهد.}}{60}{figure.5.1}%
+\contentsline {figure}{\numberline {5-2}{\ignorespaces شبکه حافظه کوتاه‌مدت ماندگار با $T^{step}$ واحد حافظه.}}{62}{figure.5.2}%
+\contentsline {figure}{\numberline {5-3}{\ignorespaces معماری شبکه تک‌جریانی $Q$ معمولی (بالا) و معماری شبکه دوئل $Q$ مورد استفاده (پایین) }}{63}{figure.5.3}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6-1}{\ignorespaces همگرایی الگوریتم پیشنهادی تحت تغییرات نرخ یادگیری.}}{75}{figure.6.1}%
+\contentsline {figure}{\numberline {6-2}{\ignorespaces همگرایی الگوریتم پیشنهادی تحت تغییرات تناوب درخواست پارامتر به روز رسانی.}}{76}{figure.6.2}%
+\contentsline {figure}{\numberline {6-3}{\ignorespaces مقایسه عملکرد در نرخ وظایف منقضی‌شده تحت: (a) تغییرات تعداد دستگاه‌های متصل و (b) تغییرات مقدار احتمال ورود وظیفه در هر شکاف زمانی.}}{77}{figure.6.3}%
+\contentsline {figure}{\numberline {6-4}{\ignorespaces مقایسه عملکرد در میانگین تأخیر تحت: (a) تغییرات تعداد دستگاه‌های متصل و (b) تغییرات مقدار احتمال ورود وظیفه در هر شکاف زمانی.}}{78}{figure.6.4}%
+\contentsline {figure}{\numberline {6-5}{\ignorespaces مقایسه عملکرد در مقدار انرژی مصرفی سیستم تحت: (a) تغییرات تعداد دستگاه‌های متصل و (b) تغییرات مقدار احتمال ورود وظیفه در هر شکاف زمانی.}}{79}{figure.6.5}%
+\addvspace {10\p@ }
