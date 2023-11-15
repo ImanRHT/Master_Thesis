@@ -1,1 +1,10 @@
 ## A Novel Resource Allocation Algorithm in Edge Computing with Deep Reinforcement Learning
+
+M.Sc. Thesis, Department of Computer Engineering, Sharif University of Technology
+
+
+By:
+Iman Rahmati
+Supervisor:
+Dr. Ali Movaghar
+September 2022
